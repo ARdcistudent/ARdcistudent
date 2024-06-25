@@ -5,11 +5,11 @@
 
 ___Nice to see YOU on my page___
 
-Below you can find some informations about [me](About), [my codingskills](Codingskills), [my hobbies](Hobbies), [my job](Job) and [my lifegoals](Lifegoals)
+Below you can find some informations about [me](#About), [my codingskills](Codingskills), [my hobbies](Hobbies), [my job](Job) and [my lifegoals](Lifegoals)
 
 If there are some questions open, feel free to [contact me](mailto:andre.ruehmling@dci-student.org)!
 
-### About Me (Interview)
+# About Me (Interview)
 - **Where are you from?**
 
 I am from **northern germany** 🇩🇪 | Exactly from **Lübeck** wich is about 60km north-east of Hamburg 
@@ -22,7 +22,7 @@ I was born on March, 9th, 1984 🍼 | That means curently i am 40 years old!
 
 No, i don't have children! But you never know what will happen in your life 😜
 
-### My Codingskills
+# My Codingskills
 
 I am a student for WebDev at the DigitalCareerInstitute. Some time before i had a Crashcours about WebDev at the WBS.
 
