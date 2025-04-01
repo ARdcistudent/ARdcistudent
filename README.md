@@ -46,7 +46,7 @@ But you never stop learning, just like Einstein said:
 - [x] <img src="https://upload.wikimedia.org/wikipedia/de/f/f4/Windows_7_Logo.svg" width="30px"> Windows
 - [x] <img src="https://brandeps.com/logo-download/G/GitHub-Icon-logo-vector-01.svg" width="30px"> GitHub
 - [x] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30px"> nodeJS
-- [ ] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30px"> React
+- [x] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30px"> React
 
 ### My Hobbies
 
