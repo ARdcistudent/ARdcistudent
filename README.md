@@ -47,7 +47,7 @@ But you never stop learning, just like Einstein said:
 - [x] <img src="https://brandeps.com/logo-download/G/GitHub-Icon-logo-vector-01.svg" width="30px"> GitHub
 - [x] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30px"> nodeJS
 - [x] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30px"> React
-- [x] <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" width=30px"> mongoDB
+- [x] <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" width="30px"> mongoDB
 
 ### My Hobbies
 
