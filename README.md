@@ -50,6 +50,7 @@ But you never stop learning, just like Einstein said:
 - [x] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30px"> nodeJS
 - [x] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30px"> React
 - [x] <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" width="30px"> mongoDB
+- [ ] <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30px"> C++
 
 ### My Hobbies
 
