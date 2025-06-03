@@ -32,7 +32,8 @@ But you never stop learning, just like Einstein said:
 
 **_["...once you stop learning, you start dying"]_**
 
-- [ ] = not started yet, but upcoming | [x] = Learned, but still learning
+- [ ] = not started yet, but upcoming
+- [x] = Learned, but still learning
 
 - [x] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30px"> HTML 5
 - [x] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30px"> CSS 3
